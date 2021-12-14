@@ -3,6 +3,7 @@
 
 This is unsupervised learning data problem where we need segment different customers on the basis of their purchases using kmeans clustering technique
 
+
 ##Steps to solve the problem :
 Importing Libraries.
 Checking missing values.
